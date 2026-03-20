@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+.pytest_cache/
+.benchmarks/
+*.so
+uv.lock
+
+# Override root .gitignore *.json exclusion for package data
+!src/pairwise_llm_eval/general_questions.json
+!tests/fixtures/*.jsonl

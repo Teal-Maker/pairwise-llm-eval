@@ -1,0 +1,10 @@
+{"id": "q001", "question": "What is the boiling point of water at sea level?", "gold_answer": "100 degrees Celsius (212 degrees Fahrenheit)", "category": "science"}
+{"id": "q002", "question": "What is the chemical formula for table salt?", "gold_answer": "NaCl (sodium chloride)", "category": "science"}
+{"id": "q003", "question": "What is the value of pi to four decimal places?", "gold_answer": "3.1416", "category": "math"}
+{"id": "q004", "question": "What is the Pythagorean theorem?", "gold_answer": "In a right triangle, a squared plus b squared equals c squared (a² + b² = c²)", "category": "math"}
+{"id": "q005", "question": "What is the capital city of France?", "gold_answer": "Paris", "category": "geography"}
+{"id": "q006", "question": "On which continent is the Amazon rainforest located?", "gold_answer": "South America", "category": "geography"}
+{"id": "q007", "question": "In what year did World War II end?", "gold_answer": "1945", "category": "history"}
+{"id": "q008", "question": "Who wrote the play Hamlet?", "gold_answer": "William Shakespeare", "category": "literature"}
+{"id": "q009", "question": "What is the speed of light in a vacuum?", "gold_answer": "Approximately 299,792,458 metres per second (about 3 × 10⁸ m/s)", "category": "science"}
+{"id": "q010", "question": "What year did the First World War begin?", "gold_answer": "1914", "category": "history"}
